@@ -1,9 +1,19 @@
 # Covid-19 vaccination in Brazil and the World
 
-How is the Brazilian vaccination campaign faring against other countries? The graph below contains the progress curves of all the countries in Latin America with more than 500k inhabitants.
+How is the Brazilian vaccination campaign faring against other countries? The graph below contains the progress curves of all the countries in Latin America with more than 1 million inhabitants.
 
-![](/brazil-vs-latam.png?raw=true)
+![](/brazil-vs-latam.png)
 
 But countries in Latin America have wildly different economic markers, and we know that vaccines cost money. It would be more sensible then to compare Brazil against countries with similar GDP per capita instead of geographical proximity.
 
-![](/brazil-vs-world.png?raw=true)
+![](/brazil-vs-world.png)
+
+## View the notebook
+You can view the notebook [here on Github](https://github.com/brunoarine/coronavirus-vaccinations/blob/main/notebook.ipynb).
+
+## Try the notebook
+In your shell prompt, type the following:
+
+```sh
+git clone https://github.com/brunoarine/coronavirus-vaccinations.git
+```
