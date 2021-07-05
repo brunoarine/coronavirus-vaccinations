@@ -1,6 +1,6 @@
 # Covid-19 vaccination in Brazil and the World
 
-How is the Brazilian vaccination campaign faring against other countries? The graph below contains the progress curves of all the countries in Latin America with more than 1 million inhabitants.
+How is the Brazilian vaccination campaign faring against other countries? The graph below contains the vaccination curves of all the countries in Latin America with more than 1 million inhabitants.
 
 ![](/brazil-vs-latam.png)
 
